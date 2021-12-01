@@ -2,7 +2,7 @@
 
 # Integrantes: Ciro Lobotrico y Gabriel Sandoval   
 
-# curso: 4ta 3ra
+# Curso: 4ta 3ra
 
 # Grupo: 2                                        
 
